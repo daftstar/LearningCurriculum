@@ -1,1 +1,1 @@
-# LearningCurriculum
+# Example Curriculum
